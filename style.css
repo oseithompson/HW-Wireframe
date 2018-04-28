@@ -90,32 +90,3 @@ div.relative {
     padding: 7px;
     height: 75%;
 }
-#box-lightgrey {
-    color: #777;
-    text-align: center;
-    background-color: rgb(216, 216, 216);
-    width: 85%;
-    margin-left: 20px;
-    margin-top: 5px;
-    height: 73px;
-    padding: 5px;
-}
-#boxleft {
-    float: left;
-    background-color: rgb(187, 187, 187);
-    width: 44%;
-    margin-top: 0;
-    margin-left: 73px;
-    padding: 5px;
-    height: 169px;  
-}
-#boxright {
-    float: right;
-    width: 35%;
-    margin-top: 0;
-    margin-right: 73px;
-    background-color: rgb(187, 187, 187);
-    height: 164px;
-    padding-top: 5px;
-    padding-left: -5px;
-}
